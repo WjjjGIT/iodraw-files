@@ -1,0 +1,111 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="24.7.17">
+  <diagram name="第 1 页" id="Ro3Hdb48iR8u-K7ER8iu">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2T5zefivRV_k7JxMIwa--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="2T5zefivRV_k7JxMIwa--1" target="2T5zefivRV_k7JxMIwa--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="2T5zefivRV_k7JxMIwa--2" target="2T5zefivRV_k7JxMIwa--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--2" value="选择一个抗体代表的路径&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;开始进行变邻域下降操作" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="230" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="2T5zefivRV_k7JxMIwa--3" target="2T5zefivRV_k7JxMIwa--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--3" value="对&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;使用&lt;font face=&quot;Times New Roman&quot;&gt;swap&lt;/font&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;算&lt;/font&gt;子" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="2T5zefivRV_k7JxMIwa--8" target="2T5zefivRV_k7JxMIwa--49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--8" value="&lt;font&gt;对&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;使用&lt;font face=&quot;Times New Roman&quot;&gt;2-opt&lt;/font&gt;算子&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="2T5zefivRV_k7JxMIwa--13" target="2T5zefivRV_k7JxMIwa--48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--13" value="对&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;使用&lt;font face=&quot;Times New Roman&quot;&gt;2-h-opt&lt;/font&gt;算子" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="2T5zefivRV_k7JxMIwa--15" target="2T5zefivRV_k7JxMIwa--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--15" value="得到操作后的&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="415" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--18" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="590" y="545" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--31" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="460" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--27" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--33" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="460" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--28" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="520" y="345" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--24" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="520" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="2T5zefivRV_k7JxMIwa--6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="2T5zefivRV_k7JxMIwa--6" target="2T5zefivRV_k7JxMIwa--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--6" value="&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;有进化" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--29" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="2T5zefivRV_k7JxMIwa--48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="470" />
+              <mxPoint x="570" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="2T5zefivRV_k7JxMIwa--48" target="2T5zefivRV_k7JxMIwa--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--48" value="&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;有进化" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="2T5zefivRV_k7JxMIwa--49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="370" />
+              <mxPoint x="570" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="2T5zefivRV_k7JxMIwa--49" target="2T5zefivRV_k7JxMIwa--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2T5zefivRV_k7JxMIwa--49" value="&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;sub&gt;i&lt;/sub&gt;&lt;/font&gt;有进化" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
