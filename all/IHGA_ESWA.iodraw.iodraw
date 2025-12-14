@@ -16,8 +16,32 @@
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-6" value="Population Initialization, and initialize the best solution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FbVawRqa2Y7MdxilqkyJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FbVawRqa2Y7MdxilqkyJ-8" target="FbVawRqa2Y7MdxilqkyJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-8" value="Operations for each individual &lt;i&gt;k&lt;/i&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FbVawRqa2Y7MdxilqkyJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FbVawRqa2Y7MdxilqkyJ-10" target="FbVawRqa2Y7MdxilqkyJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FbVawRqa2Y7MdxilqkyJ-10" value="Crossover" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FbVawRqa2Y7MdxilqkyJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FbVawRqa2Y7MdxilqkyJ-12" target="FbVawRqa2Y7MdxilqkyJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FbVawRqa2Y7MdxilqkyJ-12" value="Local search for delivery routes" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FbVawRqa2Y7MdxilqkyJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FbVawRqa2Y7MdxilqkyJ-14" target="FbVawRqa2Y7MdxilqkyJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FbVawRqa2Y7MdxilqkyJ-14" value="Local search for road selection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FbVawRqa2Y7MdxilqkyJ-16" value="Update the population" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
