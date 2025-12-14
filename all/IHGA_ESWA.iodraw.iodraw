@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="24.7.17">
   <diagram name="第 1 页" id="gV6NMcuRTD3O2A6RRvDA">
-    <mxGraphModel dx="1877" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="70" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FbVawRqa2Y7MdxilqkyJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FbVawRqa2Y7MdxilqkyJ-6" target="FbVawRqa2Y7MdxilqkyJ-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="130" y="-70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-6" value="Initialize the parameters, population, and best solution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FbVawRqa2Y7MdxilqkyJ-8" target="FbVawRqa2Y7MdxilqkyJ-10">
           <mxGeometry relative="1" as="geometry" />
@@ -67,7 +64,10 @@
           <mxGeometry x="225" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-29" value="&lt;i&gt;t&lt;/i&gt; ← &lt;i&gt;t&lt;/i&gt; + 1" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="225" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="225" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FbVawRqa2Y7MdxilqkyJ-33" value="t ≤ max_itaration?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="130" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
