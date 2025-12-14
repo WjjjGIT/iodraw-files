@@ -8,19 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FbVawRqa2Y7MdxilqkyJ-6" target="FbVawRqa2Y7MdxilqkyJ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-6" value="Population Initialization, and initialize the best solution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FbVawRqa2Y7MdxilqkyJ-8" target="FbVawRqa2Y7MdxilqkyJ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-8" value="Operations for each individual &lt;i&gt;k&lt;/i&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FbVawRqa2Y7MdxilqkyJ-10" target="FbVawRqa2Y7MdxilqkyJ-12">
           <mxGeometry relative="1" as="geometry" />
@@ -44,10 +44,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-16" value="Update the population" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FbVawRqa2Y7MdxilqkyJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FbVawRqa2Y7MdxilqkyJ-23" target="FbVawRqa2Y7MdxilqkyJ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="460" />
+              <mxPoint x="430" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FbVawRqa2Y7MdxilqkyJ-23" value="All individuals complete operations?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="400" width="200" height="80" as="geometry" />
+          <mxGeometry x="200" y="420" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
